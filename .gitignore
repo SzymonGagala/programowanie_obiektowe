@@ -1,0 +1,10 @@
+# Visual Studio temporary/user files
+.vs/
+*.user
+*.suo
+
+# Binaries and build outputs
+[Dd]ebug/
+[Rr]elease/
+*/[Bb]in/
+*/[Oo]bj/

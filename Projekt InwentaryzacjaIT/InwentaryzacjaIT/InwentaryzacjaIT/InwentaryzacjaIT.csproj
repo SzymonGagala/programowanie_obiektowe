@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Title>InwentaryzacjaIT 71320</Title>
+    <AssemblyName>Projekt 71320</AssemblyName>
+    <Company></Company>
+    <Authors>Szymon Gągała w71320</Authors>
+    <Version>1.0.0</Version>
+    <Description>Program InwentaryzacjaIT to autorski system wspomagający zarządzanie zasobami sprzętowymi oraz automatyczne śledzenie ich cyklu życia w organizacji. Aplikacja została zaprojektowana w celu zastąpienia manualnych arkuszy kalkulacyjnych, zapewniając wysoką spójność i bezpieczeństwo danych.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.4" />
+  </ItemGroup>
+
+</Project>
